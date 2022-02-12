@@ -5,22 +5,37 @@ An application for creating project.
 https://www.virustotal.com/gui/file/db1d66c5c8db33acaa63bc8092b992632f50a383edf2be2ca8890fef20c43ef6?nocache=1
 
 ##### Supported templates
-```bash
+
+Discord bot :
+```
 ./slipper.exe . projectname <js/py> dc-bot
 ```
 
-or 
-
+Web server :
+Python :
 ```
-./slipper.exe Folder ProjectName <js/py> dc-bot
+./slipper.exe . projectname py flask
+```
+
+JavaScript :
+```
+./slipper.exe . projectname js express
+```
+
+Front end :
+```
+./slipper.exe . projectname <html/css> front-end
 ```
 
 ##### Supported languages other than templates
 
-C++ 
-Java
-JavaScript
-Python
+C++, 
+Java,
+JavaScript,
+Python,
+Kotlin,
+HTML,
+CSS
 
 Use :
 ```
@@ -28,3 +43,5 @@ Use :
 ```
 
 d = default
+
+### Templates 
