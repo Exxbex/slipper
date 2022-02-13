@@ -44,4 +44,3 @@ Use :
 
 d = default
 
-### Templates 
